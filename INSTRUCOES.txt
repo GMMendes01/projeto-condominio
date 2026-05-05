@@ -1,0 +1,4 @@
+Para iniciar o projeto:
+
+1. Backend: cd server && npm start
+2. Frontend: cd client && npm run dev
