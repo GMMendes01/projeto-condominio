@@ -50,4 +50,5 @@ projeto-condominio/
 
 ## Autor 
 Guilherme de Mendonça Mendes
+
 Projeto desenvolvido para disciplina de banco de dados - 3º semestre.
