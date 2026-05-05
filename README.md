@@ -48,6 +48,6 @@ projeto-condominio/
     └── vite.config.js
 ```
 
-## Autor
-
+## Autor 
+Guilherme de Mendonça Mendes
 Projeto desenvolvido para disciplina de banco de dados - 3º semestre.
